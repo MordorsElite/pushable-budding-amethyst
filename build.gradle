@@ -20,7 +20,6 @@ loom {
 	mods {
 		"pushable-budding-amethyst" {
 			sourceSet sourceSets.main
-			sourceSet sourceSets.client
 		}
 	}
 
