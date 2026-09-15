@@ -21,7 +21,7 @@ public abstract class BlockBehaviourBlockStateBase_mixin
     {
         if (getBlock() instanceof BuddingAmethystBlock)
         {
-            cir.setReturnValue(PushReaction.NORMAL);
+            cir.setReturnValue(PushReaction.PUSH_PULL);
         }
     }
 }
